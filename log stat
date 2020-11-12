@@ -1,0 +1,57 @@
+[33mcommit b6c444cd623e59e4fc5eeb0d766e0def071e517c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andrea Rodriguez <andrea.rohernande26@gmail.com>
+Date:   Wed Nov 11 20:10:06 2020 -0600
+
+    Commit al master del blogpost en su version mas reciente
+
+ Historia.txt    |  7 [32m+++[m[31m----[m
+ blog.html       | 14 [32m++++++++++[m[31m----[m
+ css/estilos.css | 20 [32m++++++++++++++++++[m[31m--[m
+ 3 files changed, 31 insertions(+), 10 deletions(-)
+
+[33mcommit 42dfb87ae201617182585683f80f99064b395ef3[m
+Author: Andrea Rodriguez <andrea.rohernande26@gmail.com>
+Date:   Sat Oct 31 18:20:05 2020 -0600
+
+    Cambio de maestria
+
+ Historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 7494349c9198fa5775af4b7cf46bdfa7d012fd0c[m
+Author: Andrea Rodriguez <andrea.rohernande26@gmail.com>
+Date:   Sat Oct 31 18:18:55 2020 -0600
+
+    Cmabio de vida
+
+ Historia.txt | 4 [32m++[m[31m--[m
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit c25337ba905a33a50ceaae6cf7ecac98ea39e660[m
+Author: Andrea Rodriguez <andrea.rohernande26@gmail.com>
+Date:   Sat Oct 31 18:16:59 2020 -0600
+
+    Arranco mi proyecto real con html y css
+
+ blog.html       | 10 [32m++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ estilos.css     |  6 [32m++++++[m
+ 3 files changed, 22 insertions(+)
+
+[33mcommit ec4d68456108fcd8a2828e2759db1e2db0426a45[m
+Author: Andrea Rodriguez <andrea.rohernande26@gmail.com>
+Date:   Thu Oct 22 16:23:15 2020 -0600
+
+     Cambios al archivo de historia de la edad correcta
+
+ Historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 98afdbddb5555f7041651cb00731827c23849b0e[m
+Author: Andrea Rodriguez <andrea.rohernande26@gmail.com>
+Date:   Thu Oct 22 13:20:12 2020 -0600
+
+     Este es el primer commit de este archivo
+
+ Historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
