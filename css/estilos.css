@@ -1,7 +1,14 @@
 body
+<<<<<<< HEAD
 {   Color: #333;
     text-align: center;
     font-family: Arial;
+=======
+{
+    color: grey;
+    text-align: center;
+    font-family: "arial";
+>>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -25,18 +32,32 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+<<<<<<< HEAD
 
 #container
+=======
+#cabecera
+>>>>>>> cabecera
 {
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgb(0,0,0,0);
+    color: white;
+    font-weight: bold;
     width: 70%;
     padding: 0;
     text-align: left;
+<<<<<<< HEAD
     border: 1px solid #DDD;
     margin: 0 auto;
+=======
+    border: 1px solid #000;
+    margin: 0;
+>>>>>>> cabecera
 }
 
-#container h1
+#cabecera #tagline
 {
+<<<<<<< HEAD
     font-size: 20px;
 }
 #post
@@ -44,3 +65,9 @@ body
     padding: 1em;
 }
 
+=======
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 20 px;
+} 
+>>>>>>> cabecera
